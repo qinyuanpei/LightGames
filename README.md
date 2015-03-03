@@ -6,6 +6,10 @@
 
 ![游戏展示](http://7wy477.com1.z0.glb.clouddn.com/qinyuanpei_imgs_仙剑同人游戏展示.jpg)
 
+[演示视频1](http://v.qq.com/page/a/u/z/a0148pmn2uz.html)
+
+[演示视频2](http://v.qq.com/page/h/l/p/h0148q647lp.html)
+
 ## 塔防游戏
 该游戏是用使用《保卫萝卜》的素材制作的一款简单的塔防游戏，在这个游戏中实现一个基础的塔防游戏的框架,可以使用[Unity3D](http://unity3d.com/)的编辑器来编辑和生成地图、敌人寻路路径等，可以通过配置Xml文件来设置敌人的攻击序列，实现了防守单位的AI和防守单位的部署等功能。
 
