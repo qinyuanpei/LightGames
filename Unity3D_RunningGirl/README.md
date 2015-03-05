@@ -7,7 +7,7 @@
 
 ## 游戏视频
 
-[游戏视频](url)
+[游戏视频](http://v.qq.com/page/h/v/m/h0148idqhvm.html)
 
 ## TODO
 * 游戏玩法的创新
