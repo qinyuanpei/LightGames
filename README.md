@@ -16,7 +16,7 @@
 
 ![游戏展示](http://7wy477.com1.z0.glb.clouddn.com/qinyuanpei_imgs_跑酷游戏展示.jpg)
 
-## 黑白贪吃蛇
+## [黑白贪吃蛇](https://github.com/qinyuanpei/ProfileGameShow/tree/master/Love2D_Snake)
 该游戏是使用[Love2D](http://love2d.org/)游戏引擎和Lua语言编写的小游戏。
 
 ![游戏展示](http://7wy477.com1.z0.glb.clouddn.com/qinyuanpei_imgs_贪吃蛇1.png)
