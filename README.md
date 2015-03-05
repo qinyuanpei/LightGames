@@ -1,14 +1,10 @@
 # 个人游戏作品展示
 各位朋友，大家好，欢迎大家来到我的个人游戏作品展示专栏，我是游戏开发者[秦元培](qinyuanpei.github.io)。在这里你将看到我个人开发的游戏作品，我将通过图片、文字、视频的形式来让你对我的游戏作品有一个全面的认识，希望大家喜欢！
 
-## [仙剑奇侠传同人作品](https://github.com/qinyuanpei/ProfileGameShow/tree/master/Unity)
+## [仙剑奇侠传同人作品](https://github.com/qinyuanpei/ProfileGameShow/tree/master/Unity3D_Pal5QDream)
 该游戏是一款使用[Unity3D](http://unity3d.com/)引擎开发的仙剑同人游戏，在这个游戏中初步实现了RPG游戏中的角色控制、剧情对话、物品拾取、场景触发、小地图等。为了让大家更好地了解这个游戏，下面给出这个游戏的截图和视频展示:
 
 ![游戏展示](http://7wy477.com1.z0.glb.clouddn.com/qinyuanpei_imgs_仙剑同人游戏展示.jpg)
-
-[演示视频1](http://v.qq.com/page/a/u/z/a0148pmn2uz.html)
-
-[演示视频2](http://v.qq.com/page/h/l/p/h0148q647lp.html)
 
 ## [塔防游戏](https://github.com/qinyuanpei/ProfileGameShow/tree/master/Unity3D_TDSample)
 该游戏是用使用《保卫萝卜》的素材制作的一款简单的塔防游戏，在这个游戏中实现一个基础的塔防游戏的框架,可以使用[Unity3D](http://unity3d.com/)的编辑器来编辑和生成地图、敌人寻路路径等，可以通过配置Xml文件来设置敌人的攻击序列，实现了防守单位的AI和防守单位的部署等功能。
