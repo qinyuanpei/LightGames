@@ -21,6 +21,9 @@
 
 ![游戏展示](http://7wy477.com1.z0.glb.clouddn.com/qinyuanpei_imgs_贪吃蛇1.png)
 
+## 飞机大战
+该游戏是使用Unity3D引擎制作的简单2D飞机大战游戏
+
 
 
 
