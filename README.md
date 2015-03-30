@@ -22,7 +22,10 @@
 ![游戏展示](http://7wy477.com1.z0.glb.clouddn.com/qinyuanpei_imgs_贪吃蛇1.png)
 
 ## 飞机大战
-该游戏是使用Unity3D引擎制作的简单2D飞机大战游戏
+该游戏是使用Unity3D引擎制作的简单2D飞机大战游戏,实现了飞机大战的基本功能，玩法类似于微信的打飞机。在游戏中有三种敌人，第一种无攻击能力、第二种有攻击能力、第三种是Boss机。Boss机将在玩家分数达到一定数值后单独出现，当玩家连续秒杀5个Boss后整个游戏就结束了。
+
+![游戏展示](http://7wy477.com1.z0.glb.clouddn.com/imgs_PlaneWar.gif)
+
 
 
 
