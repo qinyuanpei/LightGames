@@ -1,4 +1,4 @@
-# 个人游戏作品展示
+# SomeGames
 各位朋友，大家好，欢迎大家来到我的个人游戏作品展示专栏，我是游戏开发者[秦元培](qinyuanpei.github.io)。在这里你将看到我个人开发的游戏作品，我将通过图片、文字、视频的形式来让你对我的游戏作品有一个全面的认识，希望大家喜欢！
 
 ## [仙剑奇侠传同人作品](https://github.com/qinyuanpei/ProfileGameShow/tree/master/Unity3D_Pal5QDream)
